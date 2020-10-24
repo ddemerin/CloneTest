@@ -1,1 +1,3 @@
 Here's a test file to go along with the students at DigitalCraft to show them how to clone repos.
+
+Changed test.html to test.txt for practice along with students
